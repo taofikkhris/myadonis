@@ -1,4 +1,4 @@
-# Adonis fullstack application
+# Adonis Login+Register+CRUD Fullstack Application
 
 This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 
